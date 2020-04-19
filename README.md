@@ -74,3 +74,9 @@ You might also like the [iOS Developer Skills Matrix](https://github.com/BohdanO
 
 Learn iOS development & Swift online from the best iOS Swift tutorials and courses recommended by the programming community. 
 https://hackr.io/tutorials/learn-ios-swift
+
+## Usefull articles:
+
+### https://marcosantadev.com/swift-arrays-holding-elements-weak-references/
+
+### https://developer.apple.com/documentation/foundation/nshashtable#//apple_ref/occ/clm/NSHashTable/weakObjectsHashTable
